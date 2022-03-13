@@ -7,9 +7,10 @@
 ## Technologies Used
 
 * _C#_
-* _ASP.Net Core_
+* _ASP.Net Core MVC_
 * _Entity Framework_
 * _SQL_
+* _CSS/Bootstrap_
 
 
 ## Description
@@ -32,6 +33,9 @@ Database Structure
 * _enter the URL into the web browser of your choice, usually `http://localhost:5000`_
 * _follow the prompts on the web application_
 * _to reload the server while updates to the code are made, enter `dotnet watch run`_
+
+**To set up MySql server**
+* _detailed installation instruction for you operation system can be found here: `https://www.learnhowtoprogram.com/c-and-net-part-time/getting-started-with-c/installing-and-configuring-mysql`_
 
 
 **To import the database to MySql WorkBench**
