@@ -1,4 +1,4 @@
-# _Bakery App: Vendor Tracker_
+# _Hair Salon App_
 
 #### By _**Amy Young**_
 
